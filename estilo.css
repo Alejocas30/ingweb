@@ -11,3 +11,8 @@ p{
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
 }
+.resaltado{
+    color: black;
+    background-color: aliceblue;
+    font-style: italic;
+}

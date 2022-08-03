@@ -1,0 +1,13 @@
+body{background-color: blue;}
+h1{
+    color: brown;
+    font-family: Arial;
+    font-size: 29px;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}

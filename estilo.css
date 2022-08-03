@@ -16,3 +16,9 @@ p{
     background-color: aliceblue;
     font-style: italic;
 }
+#cabecera{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: blueviolet;
+    background-color: aqua;
+}
